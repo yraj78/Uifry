@@ -1,0 +1,40 @@
+.features,
+.feature{
+    padding: 50px 20px;
+    margin: 50px;
+    display: inline-block;
+    background-color: #f9f9f9;
+}
+
+.feature {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .feature-icon {
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+  }
+  
+  .feature-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  @media screen and (max-width: 768px) {
+    .features,
+    .feature {
+        padding: 30px 10px;
+        margin: 30px 10px;
+        display: block;
+    }
+
+    .feature-icon {
+        height: 100px;
+        width: 100px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}

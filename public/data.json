@@ -1,0 +1,84 @@
+{
+    "hero": {
+      "headline": "Discover Our App",
+      "subheadline": "The best app for all your needs.",
+      "ctaButtons": [
+        {
+          "text": "Download Now",
+          "link": "/download"
+        },
+        {
+          "text": "Learn More",
+          "link": "#features"
+        }
+      ]
+    },
+    "features": [
+      {
+        "title": "Income Tracking",
+        "description": "It's easy to keep track on your income. ",
+        "icon":  "/images/feature1.jpg"
+      },
+      {
+        "title": "Interactive Dashboard",
+        "description": "We will provide you the best interactive interface.",
+        "icon":  "/images/feature2.jpg"
+      }
+    ],
+    "screenshots": [
+      {
+        "image": "/images/screenshot1.jpg",
+        "title": "Dashboard Overview",
+        "description": "Get a comprehensive view of your data."
+      },
+      {
+        "image": "/images/screenshot2.jpg",
+        "title": "Detailed Reports",
+        "description": "Generate detailed reports with ease."
+      },
+      {
+        "image": "/images/screenshot3.jpg",
+        "title": "Expense Management",
+        "description": "Easily manage and categorize your expenses."
+      },
+      {
+        "image": "/images/screenshot4.jpg",
+        "title": "Real-Time Notifications",
+        "description": "Get notified instantly about important updates."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "David William",
+        "feedback": "This app is fantastic! It has changed my life.",
+        "avatar": "/images/avtar1.jpg"
+      },
+      {
+        "name": "Lara Croft",
+        "feedback": "I can't imagine my daily routine without this app.",
+        "avatar": "/images/avtar2.jpg"
+      },
+      {
+        "name": "John Doe",
+        "feedback": "The best app I have ever used, highly recommend!",
+        "avatar": "/images/avtar3.jpg"
+      },
+      {
+        "name": "Jane Smith",
+        "feedback": "Exceptional quality and great user experience.",
+        "avatar": "/images/avtar4.jpg"
+      }
+    ],
+    "pricing": [
+      {
+        "plan": "Basic",
+        "price": "Rs.499/month",
+        "features": ["Standard Support", "Single User License", "Email Notifications"]
+      },
+      {
+        "plan": "Premium",
+        "price": "Rs.899/month",
+        "features": ["Priority Support", "Multi-User License", "Advanced Analytics", "Customizable Reports"]
+      }
+    ]
+  }
